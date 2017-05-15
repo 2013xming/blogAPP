@@ -1,0 +1,3 @@
+rootProject.name = 'yuxinote'
+
+include ':app'
